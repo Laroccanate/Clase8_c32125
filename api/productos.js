@@ -24,7 +24,7 @@ class ProductosApi {
     //     const index = this.productos.findIndex((p)=> p.id == id);
     //     if(index !== -1){
     //         this.productos[index] = newProd:
-    //         AAAAAAAAAAAAAAAAAAA
+    //        
     //     }
     // }
 
@@ -49,6 +49,6 @@ class ProductosApi {
 
 }
 
-const productos = new ProductosApi('./public/products.txt');
+// const productos = new ProductosApi('./public/products.txt');
 
 module.exports = ProductosApi

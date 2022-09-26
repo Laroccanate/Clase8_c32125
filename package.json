@@ -1,7 +1,6 @@
 {
   "name": "clase8_c32125",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laroccanate/Clase8_c32125.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Laroccanate/Clase8_c32125/issues"
+  },
+  "homepage": "https://github.com/Laroccanate/Clase8_c32125#readme",
+  "description": ""
 }
